@@ -19,6 +19,14 @@ https://kimdu.com/understanding-mil-std-1553-message-format/
 Manchester-2 (G.E. Thomas version) coding is a physical coding method in which each bit of binary information (0 or 1) is represented as a signal transition at the boundary of a time interval.
 <img width="699" height="290" alt="manchester" src="https://github.com/user-attachments/assets/cab629a3-6c4d-47f4-b9c2-9d5b1edb5f1f" />
 
+The project implements the following actions:
+% Input of signal parameters
+% Signal generation
+% Add noise (dB)
+% Signal parsing
+% Decoding the received signal
+% Output Result
+
 ![result1](https://github.com/user-attachments/assets/9a32de4f-f1c7-45c0-9428-4e514f1309da)
 
 <img width="1200" height="600" alt="result2" src="https://github.com/user-attachments/assets/7f9af531-920a-422f-a12c-d863ff06bcf1" />
