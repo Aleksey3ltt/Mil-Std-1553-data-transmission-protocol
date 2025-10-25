@@ -20,11 +20,17 @@ Manchester-2 (G.E. Thomas version) coding is a physical coding method in which e
 <img width="699" height="290" alt="manchester" src="https://github.com/user-attachments/assets/cab629a3-6c4d-47f4-b9c2-9d5b1edb5f1f" />
 
 The project implements the following actions:
+
 -Input of signal parameters
+
 -Signal generation
+
 -Add noise (dB)
+
 -Signal parsing
+
 -Decoding the received signal
+
 -Output Result
 
 ![result1](https://github.com/user-attachments/assets/9a32de4f-f1c7-45c0-9428-4e514f1309da)
