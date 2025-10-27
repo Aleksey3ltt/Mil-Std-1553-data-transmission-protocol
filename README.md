@@ -35,5 +35,6 @@ The project implements the following actions:
 
 ![result1](https://github.com/user-attachments/assets/9a32de4f-f1c7-45c0-9428-4e514f1309da)
 
-<img width="1200" height="600" alt="result2" src="https://github.com/user-attachments/assets/7f9af531-920a-422f-a12c-d863ff06bcf1" />
+<img width="1200" height="600" alt="result2" src="https://github.com/user-attachments/assets/136758f2-4efd-4820-a8d2-0c3e0b80a9f0" />
+
 
