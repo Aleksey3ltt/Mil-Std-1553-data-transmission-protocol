@@ -50,6 +50,7 @@ text_positions = pause*1e6+3+(0:total_bits-1)*bit_duration*1e6 + bit_duration*1e
 bits = str2num(bits_binary(:));
 for i = 1:length(bits)
     text_pos = text_positions(i);
-    text(text_pos, 1.16, sprintf('B%d\n(%d)', i, bits(i)), ...
+    text(text_pos, 1.16, sprintf('B%d\n(%d)', i+3, bits(i)), ...
         'HorizontalAlignment', 'center', 'FontSize', 8);
+
 end
